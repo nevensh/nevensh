@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
-<p>Welcome to my page! </br> I'm Neven shalata , Fullstack web developer from <img src="https://cdn-icons-png.flaticon.com/512/203/203043.png" width="20"/> <b>Sakhnin, Israel</b> </p>
+<p>Welcome to my page! </br> I'm Neven shalata ,a Fullstack web developer from <img src="https://cdn-icons-png.flaticon.com/512/203/203043.png" width="20"/> <b>Sakhnin, Israel</b> </p>
 
 <h2> 👊 About Me  </h2>
 
